@@ -1,4 +1,4 @@
-package com.v2.core;
+package v2.core;
 
 import expr.Expr;
 import expr.Parser;

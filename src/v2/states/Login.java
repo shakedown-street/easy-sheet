@@ -1,8 +1,8 @@
-package com.v2.states;
+package v2.states;
 
 import java.awt.Graphics;
 
-import com.v2.core.State;
+import v2.core.State;
 
 public class Login implements State {
 	

@@ -1,4 +1,4 @@
-package com.legacy.plugin;
+package legacy.plugin;
 
 import java.io.File;
 import java.io.FileNotFoundException;

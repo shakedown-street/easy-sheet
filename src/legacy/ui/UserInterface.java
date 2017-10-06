@@ -1,4 +1,4 @@
-package com.legacy.ui;
+package legacy.ui;
 
 import java.awt.Font;
 import java.awt.Graphics;
@@ -7,7 +7,7 @@ import java.awt.RenderingHints;
 
 import javax.swing.JComponent;
 
-import com.legacy.spreadsheet.SpreadSheet;
+import legacy.spreadsheet.SpreadSheet;
 
 public class UserInterface extends JComponent {
 

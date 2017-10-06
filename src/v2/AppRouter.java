@@ -1,8 +1,8 @@
-package com.v2;
+package v2;
 
 import java.util.ArrayList;
 
-import com.v2.core.State;
+import v2.core.State;
 
 public class AppRouter {
 	

@@ -1,4 +1,4 @@
-package com.v2.components;
+package v2.components;
 
 import java.awt.Color;
 import java.awt.Graphics;

@@ -1,4 +1,4 @@
-package com.v2;
+package v2;
 
 public class AppConfig {
 	

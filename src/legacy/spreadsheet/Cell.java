@@ -1,8 +1,7 @@
-package com.legacy.spreadsheet;
+package legacy.spreadsheet;
 
 import expr.Expr;
 import expr.Parser;
-import expr.SyntaxException;
 import expr.Variable;
 
 public class Cell {

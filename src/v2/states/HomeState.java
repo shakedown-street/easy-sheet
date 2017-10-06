@@ -1,10 +1,10 @@
-package com.v2.states;
+package v2.states;
 
 import java.awt.Color;
 import java.awt.Graphics;
 
-import com.v2.components.SpreadSheet;
-import com.v2.core.State;
+import v2.components.SpreadSheet;
+import v2.core.State;
 
 public class HomeState implements State {
 	

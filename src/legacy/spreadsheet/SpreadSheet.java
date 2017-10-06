@@ -1,10 +1,10 @@
-package com.legacy.spreadsheet;
+package legacy.spreadsheet;
 
 import java.awt.Color;
 import java.awt.Graphics;
 
-import com.legacy.ui.UserInterface;
-import com.legacy.util.Utils;
+import legacy.ui.UserInterface;
+import legacy.util.Utils;
 
 public class SpreadSheet {
 

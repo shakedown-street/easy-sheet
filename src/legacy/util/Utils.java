@@ -1,4 +1,4 @@
-package com.legacy.util;
+package legacy.util;
 
 public class Utils {
 

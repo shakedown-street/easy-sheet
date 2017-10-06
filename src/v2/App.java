@@ -1,4 +1,4 @@
-package com.v2;
+package v2;
 
 import java.awt.Canvas;
 import java.awt.Dimension;
@@ -6,8 +6,8 @@ import java.awt.Font;
 import java.awt.Graphics;
 import java.awt.image.BufferStrategy;
 
-import com.v2.states.ErrorState;
-import com.v2.states.HomeState;
+import v2.states.ErrorState;
+import v2.states.HomeState;
 
 @SuppressWarnings("serial")
 public class App extends Canvas implements Runnable {

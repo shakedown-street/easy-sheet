@@ -1,10 +1,10 @@
-package com.legacy;
+package legacy;
 
 import java.awt.Dimension;
 
 import javax.swing.JFrame;
 
-import com.legacy.ui.UserInterface;
+import legacy.ui.UserInterface;
 
 public class Launcher {
 

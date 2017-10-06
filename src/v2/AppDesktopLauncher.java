@@ -1,6 +1,4 @@
-package com.v2;
-
-import java.awt.Dimension;
+package v2;
 
 import javax.swing.JFrame;
 

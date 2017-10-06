@@ -1,12 +1,12 @@
-package com.legacy.ui;
+package legacy.ui;
 
 import java.awt.Graphics;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 
-import com.legacy.spreadsheet.Cell;
-import com.legacy.spreadsheet.SpreadSheet;
-import com.legacy.util.Utils;
+import legacy.spreadsheet.Cell;
+import legacy.spreadsheet.SpreadSheet;
+import legacy.util.Utils;
 
 public class Input implements KeyListener {
 
